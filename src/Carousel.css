@@ -34,4 +34,5 @@
     width: 50%;
     height: 150px;
     object-fit: cover;
+    border-radius: 16px;
 }

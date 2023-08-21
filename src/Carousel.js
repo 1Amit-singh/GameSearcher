@@ -3,7 +3,7 @@ import "./Carousel.css"
 
 const CarouselSlider = () => {
   return (
-    <Carousel autoplay={true} autoplayInterval={6000} wrapAround={true} >
+    <Carousel autoplay={true} autoplayInterval={6000} wrapAround={true}>
         <div className="sliderElement">
             <img className="sliderImage" src="https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-91dc9490f14942ad5eeef278eb3ef4a6" />
             <div className="sliderText">

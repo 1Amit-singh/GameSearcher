@@ -1,0 +1,11 @@
+.categoryCarousel{
+    height: 10%;
+}
+.categoryImage{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+}
+.categoryMain{
+    padding: 100px;
+}
